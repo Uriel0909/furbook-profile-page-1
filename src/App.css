@@ -3,5 +3,10 @@
 }
 
 .row {
-  margin: 2rem
+  margin: 2rem;
+
+}
+
+.container{
+    display: grid;
 }
